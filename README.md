@@ -40,7 +40,6 @@
 
 ### 🤖 Data Science & AI
 ![Python](https://skillicons.dev/icons?i=python)
-![Pandas](https://skillicons.dev/icons?i=pandas)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![Machine Learning](https://skillicons.dev/icons?i=sklearn)
