@@ -61,13 +61,7 @@
 ---
 
 ## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvar786-ux&layout=compact&theme=tokyonight" />
-</p>
-
----
-
+![Python](https://skillicons.dev/icons?i=python)
 ## 🏆 Achievements
 
 <p align="center">
