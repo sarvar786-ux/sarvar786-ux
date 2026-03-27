@@ -38,10 +38,14 @@
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 
-### 🤖 Data Science
-![Pandas](https://skillicons.dev/icons?i=python)
+### 🤖 Data Science & AI
+![Python](https://skillicons.dev/icons?i=python)
+![Pandas](https://skillicons.dev/icons?i=pandas)
+![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![ScikitLearn](https://skillicons.dev/icons?i=sklearn)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![Machine Learning](https://skillicons.dev/icons?i=sklearn)
+![Deep Learning](https://skillicons.dev/icons?i=tensorflow)
 
 ---
 
