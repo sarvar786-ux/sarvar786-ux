@@ -54,11 +54,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvar786-ux&show_icons=true&theme=tokyonight" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvar786-ux&theme=tokyonight" />
 </p>
