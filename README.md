@@ -62,14 +62,7 @@
 
 ## 📈 Top Languages
 ![Python](https://skillicons.dev/icons?i=python)
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarvar786-ux&theme=onestar" />
-</p>
-
----
-
+![Java](https://skillicons.dev/icons?i=java)
 ## 🌐 Connect With Me
 
 <p align="center">
