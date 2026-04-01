@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=200&section=header&text=MOHAMMED%20SARVAR&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=200&section=header&text=MOHAMMED%20SARVAR&fontSize=40&fontColor=cce99d" />
 </p>
 
 <!-- TYPING -->
