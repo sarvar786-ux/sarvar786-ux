@@ -1,82 +1,107 @@
-<!-- HEADER -->
+<!-- 🔥 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=200&section=header&text=MOHAMMED%20SARVAR&fontSize=40&fontColor=cce99d" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:8A2BE2,100:0f2027&height=220&section=header&text=MOHAMMED%20SARVAR&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- TYPING -->
+<!-- 👋 TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Full+Stack+Developer;AI+ML+Engineer;Building+Real+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?type=slide&color=00F7FF&size=28&center=true&vCenter=true&width=650&height=50&lines=Data+Scientist;Full+Stack+Developer;AI%2FML+Engineer;Building+Real+World+Projects🚀" />
 </p>
 
-<!-- VIEWS -->
+<!-- 👀 VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarvar786-ux&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=sarvar786-ux&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
-- 🎯 Data Scientist & Full Stack Developer  
-- 🤖 Building AI-powered apps  
-- 🌐 Passionate about web + ML  
-- ⚡ Turning ideas into real projects  
+<h2 align="center">🧠 About Me</h2>
+
+<p align="center">
+🎯 Data Scientist & Full Stack Developer <br/>
+🤖 Building AI-powered applications <br/>
+🌐 Passionate about Web + Machine Learning <br/>
+⚡ Focused on real-world problem solving <br/>
+📈 Continuously learning & improving
+</p>
 
 ---
 
-## ⚡ Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
 
-### 💻 Languages
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
+<p align="center">
+<b>💻 Languages</b><br/>
+<img src="https://skillicons.dev/icons?i=python,js,java" />
+</p>
 
-### 🌐 Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
+<p align="center">
+<b>🌐 Frontend</b><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-### ⚙️ Backend
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
+<p align="center">
+<b>⚙️ Backend</b><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-### 🤖 Data Science & AI
-![Python](https://skillicons.dev/icons?i=python)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Machine Learning](https://skillicons.dev/icons?i=sklearn)
----
-
-## 🚀 Projects
-- 🏥 AI Medical Assistant  
-- 🍎 Nutrition Analyzer  
-- 🎬 Movie Recommendation System  
-- 🌐 Full Stack Web Apps  
+<p align="center">
+<b>🤖 Data Science & AI</b><br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+🏥 <b>AI Medical Assistant</b> – Smart health prediction system <br/>
+🍎 <b>Nutrition Analyzer</b> – Diet & calorie insights <br/>
+🎬 <b>Movie Recommendation System</b> – ML-based suggestions <br/>
+🌐 <b>Full Stack Applications</b> – End-to-end web solutions
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvar786-ux&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Top Languages
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-## 🌐 Connect With Me
+<h2 align="center">📈 Top Languages</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-sarvar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:mdsarvar776@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-<!-- FOOTER -->
+<h2 align="center">💡 Quote</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c6ff&height=120&section=footer"/>
+"Consistency + Skills = Success 🚀"
+</p>
+
+---
+
+<!-- 🔥 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,50:8A2BE2,100:0f2027&height=140&section=footer"/>
 </p>
